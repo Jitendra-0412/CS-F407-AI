@@ -12,7 +12,7 @@ Key factors involved in handling real-world complexity include:
 - Rationale:justification for actions
 - Ethics: responsible use of AI
 
-## Sensors Used in the Intelligent Vehicle
+## Different types of Sensors
 
 - Front Camera (RGB-D): Captures color images along with depth information for object detection, lane detection, and distance estimation.
 - Camera ToF: Measures depth by calculating the time taken by light to return, enabling accurate near-range distance sensing.
