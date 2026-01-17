@@ -47,5 +47,20 @@ To create a Total Turing Machine - a machine capable of understanding and intera
 - Robotics: Allows the machine to manipulate objects and interact physically with the world.
 
 
+## Lecture-2
+
+## PEAS Representation in AI
+
+PEAS is a framework or a structure of an Intelligent Agent (IA) :
+
+P- Performance Measure, E- Environment, A- Actuators, S- Sensors
+
+- Performance Measure checks the success of the agent’s actions.
+- Environment is the surroundings of an IA.
+- Actuators control IA’s interaction mechanisms.
+- Sensors are the tools for IA to perceive.
+
+
+
 
 
